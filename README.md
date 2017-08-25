@@ -1,4 +1,3 @@
-# LineVodka
 _May the Vodka be with you..._
 
 Tutorial
@@ -19,7 +18,5 @@ Run Vodka :
 
     $ python vodkabot.py
 
-Author
-------
 
-Merk Kremont / [@merkremont](https://twitter.com/merkremont)
+Copyright [@merkremont](https://twitter.com/merkremont)
