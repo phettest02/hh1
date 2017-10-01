@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 const LineAPI = require('./api');
 const { Message, OpType, Location } = require('../curve-thrift/line_types');
 let exec = require('child_process').exec;
